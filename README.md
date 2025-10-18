@@ -8,7 +8,6 @@
 
 Run shell commands and Go code **directly from Markdown**, respecting dependencies, exporting outputs, and saving to files.
 
----
 
 ## 🚀 Features
 
